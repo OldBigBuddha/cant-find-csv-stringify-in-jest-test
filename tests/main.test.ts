@@ -25,5 +25,6 @@ test("stringify", () => {
   expect(csv).toEqual(`A,20
 B,16
 C,38
-D,27`);
+D,27
+`);
 });
