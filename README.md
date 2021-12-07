@@ -1,6 +1,6 @@
 # csv-stringify module cannot be found in running by ts-jest
 
-This repository was created for reporting issue.
+This repository was created for reporting [issue](https://github.com/adaltas/node-csv/issues/309).
 
 ## Details
 
