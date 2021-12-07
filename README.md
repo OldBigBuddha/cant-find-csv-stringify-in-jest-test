@@ -1,5 +1,7 @@
 # csv-stringify module cannot be found in running by ts-jest
 
+[![Test](https://github.com/OldBigBuddha/cant-find-csv-stringify-in-jest-test/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/OldBigBuddha/cant-find-csv-stringify-in-jest-test/actions/workflows/test.yml)
+
 This repository was created for reporting [issue](https://github.com/adaltas/node-csv/issues/309).
 
 ## Details
