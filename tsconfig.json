@@ -4,6 +4,7 @@
   "extends": "@tsconfig/node16/tsconfig.json",
   "compilerOptions": {
     "baseUrl": ".",
+    "esModuleInterop": true,
     "types": ["node", "jest"]
   }
 }

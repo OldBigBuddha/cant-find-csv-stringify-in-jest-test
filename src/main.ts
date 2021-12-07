@@ -1,4 +1,4 @@
-import { stringify } from "csv-stringify/sync";
+import stringify from "csv-stringify/lib/sync";
 
 export function toCsv(data: any): string {
   return stringify(data);
